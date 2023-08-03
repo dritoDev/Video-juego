@@ -1,1 +1,1 @@
-# talller-practico-javascript-videogames
+# javascript-videogames
