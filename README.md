@@ -1,3 +1,4 @@
+[click for view the games 👈🏻](https://dritodev.github.io/Video-juego/)
 <h1 align="end">Hi 👋, I'm dritodev</h1>
 <h3 align="end">A Im frontend developer</h3>
 
@@ -6,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dritodev" alt="dritodev" /></a> </p>
 <a href=""></a>
 <p align="left"> <a href="https://twitter.com/alejand38209373" target="blank"><img src="https://img.shields.io/twitter/follow/alejand38209373?logo=twitter&style=for-the-badge" alt="alejand38209373" /></a> </p>
-
-- 🔭 actualmente estoy trabajando en: [Bombas!!](https://dritodev.github.io/Video-juego/)
 
 - 🌱 I’m currently learning **Html,css,JavaScript**
 
