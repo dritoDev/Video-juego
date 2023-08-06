@@ -1,2 +1,2 @@
-https://dritodev.github.io/Video-juego/
+[app](https://dritodev.github.io/Video-juego/)
 # javascript-videogames
