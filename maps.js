@@ -52,3 +52,37 @@ maps.push(`
   XX-----OXX
   XXXXXXXXXX
 `);
+
+maps.push(`
+  OXXXXXX--X
+  X-----X--X
+  X--XXX---X
+  X--X---XXX
+  XXX-X-XXXX
+  X----XXXXX
+  X--XXXXXXX
+  X--X---XXX
+  X--X--XXXX
+  OXXX---IXX
+`);
+
+// Agrega más mapas aquí...
+
+// Ejemplo de un mapa adicional:
+maps.push(`
+  O--X---X-I
+  X--X-X-X-X
+  XX-----XX
+  X--X-X-X-X
+  X-X-----X
+  X--X-X-X-X
+  XX-----XX
+  X-X-X-X-X
+  X-----X--
+  O-----X--
+`);
+
+// Agrega tantos mapas como desees...
+
+// No olvides ajustar el número de mapas en otras partes del código si agregas más.
+
