@@ -54,14 +54,14 @@ maps.push(`
 `);
 
 maps.push(`
-  O-XXXXXXX
+  O-XXXXXXXX
   X-----X--X
   X--XXX---X
   X------XXX
   XXX---XXXX
   X----XXXXX
   X--XXXXXXX
-  X----XXX
+  X----XXXXX
   XXXX--XXXX
   XXXX---IXX
 `);
@@ -70,16 +70,16 @@ maps.push(`
 
 // Ejemplo de un mapa adicional:
 maps.push(`
-  O--X---X-I
+  X--X-----I
+  X--XX----X
+  XX-----XXX
+  X----X-X-X
+  X-------XX
   X--X-X-X-X
-  XX-----XX
-  X--X-X-X-X
-  X-X-----X
-  X--X-X-X-X
-  XX-----XX
-  X-X-X-X-X
-  X-----X--
-  O-----X--
+  XX-----XXX
+  XXXXXX--XX
+  X-----X--X
+  XX----X--I
 `);
 
 // Agrega tantos mapas como desees...
