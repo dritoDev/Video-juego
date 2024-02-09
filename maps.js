@@ -54,16 +54,16 @@ maps.push(`
 `);
 
 maps.push(`
-  OXXXXXX--X
+  O-XXXXXXX
   X-----X--X
   X--XXX---X
-  X--X---XXX
-  XXX-X-XXXX
+  X------XXX
+  XXX---XXXX
   X----XXXXX
   X--XXXXXXX
-  X--X---XXX
-  X--X--XXXX
-  OXXX---IXX
+  X----XXX
+  XXXX--XXXX
+  XXXX---IXX
 `);
 
 // Agrega más mapas aquí...
