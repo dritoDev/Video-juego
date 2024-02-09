@@ -70,7 +70,7 @@ maps.push(`
 
 // Ejemplo de un mapa adicional:
 maps.push(`
-  X--X-----I
+  XXXX-----I
   X--XX----X
   XX-----XXX
   X----X-X-X
