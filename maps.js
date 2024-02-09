@@ -1,4 +1,4 @@
-/*
+pppp/*
  * Reglas:
  * El final de cada nivel debe ser el inicio del siguiente
 */
@@ -75,11 +75,11 @@ maps.push(`
   XX-----XXX
   X----X-X-X
   X-------XX
-  X--X-X-X-X
+  X----X-X-X
   XX-----XXX
-  XXXXXX--XX
+  XXX--XXXXX
   X-----X--X
-  XX----X--I
+  XX-------O
 `);
 
 // Agrega tantos mapas como desees...
